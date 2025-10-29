@@ -1,2 +1,3 @@
-# Advent of Code 2022
-🎄 My solutions for the Advent of Code 2022
+# Advent of Code
+
+This repo contains my solutions for the Advent of Code challenges.
